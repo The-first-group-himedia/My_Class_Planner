@@ -163,6 +163,7 @@ We hope you enjoy using our app as much as we enjoyed building it. If you have a
 
 ## 6. 신경 쓴 부분
 - :heart_eyes:[알고리즘](https://github.com/k-mcp/My_Class_Planner/wiki/시간표-생성-알고리즘)
+- 😊[비밀번호 암호화](https://github.com/k-mcp/My_Class_Planner/wiki/비밀번호-암호화)
 - :smiley:[메일인증](https://github.com/k-mcp/My_Class_Planner/wiki/이메일-인증-시스템)
 
 
@@ -261,5 +262,3 @@ We hope you enjoy using our app as much as we enjoyed building it. If you have a
 - 시간표 시각화 : Timetable API 를 이용해서 강의들을 블럭 단위로 시각화 해서 보여줄 예정
 
 <br>
-
-
