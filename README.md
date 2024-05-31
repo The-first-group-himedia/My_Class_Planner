@@ -13,6 +13,8 @@ We hope you enjoy using our app as much as we enjoyed building it. If you have a
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=My%20Class%20Planner&fontSize=90&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62" width="100%">
 </p>
 
+<br><br>
+
 ## 프로젝트 소개
 
 - My Class Planner 는 대학생들이 수강신청 할 때 시간표 충돌이 발생하지 않는 모든 가능한 시간표를 보여주는 웹 애플리케이션입니다.
@@ -20,9 +22,7 @@ We hope you enjoy using our app as much as we enjoyed building it. If you have a
 - 게시판/댓글 기능을 통해 다른 유저와 의사소통이 가능합니다.
 - AI chat 시스템으로 유저가 사용하는데에 불편함을 느낄 때 도움 받을 수 있습니다.
 
-<br>
-
-
+<br><br>
 
 ## 팀 구성원 및 역할
 <table>
@@ -74,7 +74,7 @@ We hope you enjoy using our app as much as we enjoyed building it. If you have a
   </tr>
 </table>
 
-<br>
+<br><br>
 
 ## 1. 개발 환경
 
@@ -83,7 +83,8 @@ We hope you enjoy using our app as much as we enjoyed building it. If you have a
 - 버전 및 이슈관리 : Github, Github Issues, Github Project
 - 협업 툴 : Discord, Notion, Github
 - 서비스 배포 환경 : jar
-<br>
+- 
+<br><br>
 
 
 ## 2. 채택한 개발 기술과 브랜치 전략
@@ -110,7 +111,7 @@ We hope you enjoy using our app as much as we enjoyed building it. If you have a
     - **develop** 브랜치는 개발 단계에서 git-flow의 master 역할을 하는 브랜치입니다.
     - **Feat** 브랜치는 기능 단위로 독립적인 개발 환경을 위하여 사용하고 merge 후 각 브랜치를 삭제해주었습니다.
 
-<br>
+<br><br>
 
 
 ## 3. 프로젝트 구조
@@ -140,7 +141,7 @@ We hope you enjoy using our app as much as we enjoyed building it. If you have a
 
 ```
 
-<br>
+<br><br>
 
 ## 4. 역할 분담
 
@@ -182,7 +183,7 @@ We hope you enjoy using our app as much as we enjoyed building it. If you have a
 - **기능**
     - 유저 검색, 유저 schedule 보여주기, 시스템 모니터링
     
-<br>
+<br><br>
 
 ## 5. 개발 기간 및 작업 관리
 
@@ -200,14 +201,14 @@ We hope you enjoy using our app as much as we enjoyed building it. If you have a
 - GitHub Projects와 Issues를 사용하여 진행 상황을 공유했습니다.
 - 주간회의를 진행하며 작업 순서와 방향성에 대한 고민을 나누고 Notion에 회의 내용을 기록했습니다.
 
-<br>
+<br><br>
 
 
 ## 6. 물리 데이터 모델
 <img width="1000" alt="model" src="https://github.com/k-mcp/My_Class_Planner/assets/101847682/3190614a-92bb-4003-ae18-b64c77761a10">
 
 
-<br>
+<br><br>
 
 
 ## 7. 신경 쓴 부분
@@ -216,8 +217,9 @@ We hope you enjoy using our app as much as we enjoyed building it. If you have a
 - :smiley:[메일인증](https://github.com/k-mcp/My_Class_Planner/wiki/이메일-인증-시스템)
 
 
-<br>
+<br><br>
 
+## 8. 화면별 기능 요약
 
 ### [초기화면]
 - 서비스 접속 초기화면으로 My Class Planner 의 로고가 회전합니다.
@@ -288,12 +290,10 @@ We hope you enjoy using our app as much as we enjoyed building it. If you have a
 <img src="https://github.com/k-mcp/My_Class_Planner/assets/98254345/df3003ba-6cd9-46d1-8773-99b123107cfb" width="1000"/>
 
 
-<br>
+<br><br>
 
 ## 9. 개선 목표
 
 - 시간표 시각화 : Timetable API 를 이용해서 강의들을 블럭 단위로 시각화 해서 보여줄 예정
 
 <br>
-
-![KakaoTalk_20240529_112311430](https://github.com/k-mcp/My_Class_Planner/assets/101847682/75e0d852-de30-4d48-9e76-c55af649b8eb)
