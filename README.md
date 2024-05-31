@@ -174,7 +174,7 @@ We hope you enjoy using our app as much as we enjoyed building it. If you have a
 
 ### [초기화면]
 - 서비스 접속 초기화면으로 My Class Planner 의 로고가 회전합니다.
-    - 게스트로 이용할 경우 : Continue as Guest
+    - 게스트로 이용할 경우 : Continue as Guest, Settings 기능 사용 불가능합니다.
     - 회원으로 이용할 경우 : Sign in
 - SNS(카카오톡, 구글, 페이스북) 로그인 기능은 구현되어 있지 않습니다.
 
@@ -251,8 +251,9 @@ We hope you enjoy using our app as much as we enjoyed building it. If you have a
 
 <br>
 
-## 8. 물리적 데이터 모델
-<img width="596" alt="model" src="https://github.com/k-mcp/My_Class_Planner/assets/101847682/3190614a-92bb-4003-ae18-b64c77761a10">
+## 8. 물리 데이터 모델
+|----------|
+<img width="1000" alt="model" src="https://github.com/k-mcp/My_Class_Planner/assets/101847682/3190614a-92bb-4003-ae18-b64c77761a10">
 
 
 <br>
