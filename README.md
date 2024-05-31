@@ -25,13 +25,54 @@ We hope you enjoy using our app as much as we enjoyed building it. If you have a
 
 
 ## 팀 구성원 및 역할
-
-| 이름    | 역할         | 깃허브 주소                   |
-|---------|--------------|-------------------------------|
-| 유정우  | 팀장, Server, Algorithm, OPEN AI | [유정우의 깃허브](https://github.com/Jungwoo-Ryu) |
-| 이은숙  | 업무관리, DB 관리, 테스트관리 | [이은숙의 깃허브](https://github.com/Leeeunsookl) |
-| 이혜진  | 문서관리, DB 관리 | [이혜진의 깃허브](https://github.com/tesla1220) |
-| 정고은  | Server, UI/UX   | [정고은의 깃허브](https://github.com/GonY0624) |
+<table>
+  <tr>
+    <th>구성원</th>
+    <th>이름</th>
+    <th>역할</th>
+    <th>깃허브 주소</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://github.com/k-mcp/My_Class_Planner/assets/101847682/82716b47-fa9c-4851-99da-085c34017bf3" width="120" />
+    </td>
+    <td>유정우</td>
+    <td>팀장, Server, Algorithm, OPEN AI</td>
+    <td>
+      <a href="https://github.com/Jungwoo-Ryu">유정우의 깃허브</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://github.com/k-mcp/My_Class_Planner/assets/101847682/e7ae7ab4-a66e-47c8-b8b1-ba1a218717ad" width="120" />
+    </td>
+    <td>이은숙</td>
+    <td>업무관리, DB 관리, 테스트관리</td>
+    <td>
+      <a href="https://github.com/Leeeunsookl">이은숙의 깃허브</a>
+    </td>
+  </tr>
+  <tr>
+   <td>
+    <img src="https://github.com/k-mcp/My_Class_Planner/assets/101847682/41fc877b-eac7-41b2-91aa-86929d1f0991" width="120" />
+    </td>
+    <td>이혜진</td>
+    <td>문서관리, DB 관리</td>
+    <td>
+      <a href="https://github.com/tesla1220">이혜진의 깃허브</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://github.com/GonY0624.png" width="120" />
+    </td>
+    <td>정고은</td>
+    <td>Server, UI/UX</td>
+    <td>
+      <a href="https://github.com/GonY0624">정고은의 깃허브</a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -254,3 +295,5 @@ We hope you enjoy using our app as much as we enjoyed building it. If you have a
 - 시간표 시각화 : Timetable API 를 이용해서 강의들을 블럭 단위로 시각화 해서 보여줄 예정
 
 <br>
+
+![KakaoTalk_20240529_112311430](https://github.com/k-mcp/My_Class_Planner/assets/101847682/75e0d852-de30-4d48-9e76-c55af649b8eb)
