@@ -40,7 +40,7 @@ We hope you enjoy using our app as much as we enjoyed building it. If you have a
 - Front : HTML/CSS, Javascript, Bootstrap, Thymeleaf
 - Back-end : Java/Springboot
 - 버전 및 이슈관리 : Github, Github Issues, Github Project
-- 협업 툴 : Discord, Notion
+- 협업 툴 : Discord, Notion, Github
 - 서비스 배포 환경 : jar
 <br>
 
