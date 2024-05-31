@@ -161,7 +161,15 @@ We hope you enjoy using our app as much as we enjoyed building it. If you have a
 
 <br>
 
-## 6. 신경 쓴 부분
+
+## 6. 물리 데이터 모델
+<img width="1000" alt="model" src="https://github.com/k-mcp/My_Class_Planner/assets/101847682/3190614a-92bb-4003-ae18-b64c77761a10">
+
+
+<br>
+
+
+## 7. 신경 쓴 부분
 - :heart_eyes:[알고리즘](https://github.com/k-mcp/My_Class_Planner/wiki/시간표-생성-알고리즘)
 - 😊[비밀번호 암호화](https://github.com/k-mcp/My_Class_Planner/wiki/비밀번호-암호화)
 - :smiley:[메일인증](https://github.com/k-mcp/My_Class_Planner/wiki/이메일-인증-시스템)
@@ -169,8 +177,6 @@ We hope you enjoy using our app as much as we enjoyed building it. If you have a
 
 <br>
 
-
-## 7. 페이지별 기능
 
 ### [초기화면]
 - 서비스 접속 초기화면으로 My Class Planner 의 로고가 회전합니다.
@@ -180,7 +186,7 @@ We hope you enjoy using our app as much as we enjoyed building it. If you have a
 
 | 초기화면 |
 |----------|
-![v1](https://github.com/k-mcp/My_Class_Planner/assets/98254345/c2a319d0-5fe2-4a0f-b6c4-7e7a35371607)
+<img src="https://github.com/k-mcp/My_Class_Planner/assets/98254345/c2a319d0-5fe2-4a0f-b6c4-7e7a35371607" width="1000"/>
 
 <br>
 
@@ -192,28 +198,23 @@ We hope you enjoy using our app as much as we enjoyed building it. If you have a
 
 | 회원가입 |
 |----------|
-![signup](https://github.com/k-mcp/My_Class_Planner/assets/98254345/d5a7e864-7791-4d4e-bc13-74bfd803fc61)
+<img src="https://github.com/k-mcp/My_Class_Planner/assets/98254345/d5a7e864-7791-4d4e-bc13-74bfd803fc61" width="1000"/>
 
 | 이메일 인증 |
 |----------|
-![email](https://github.com/k-mcp/My_Class_Planner/assets/98254345/2d71ed90-a130-4537-81ae-119a978ecbd8)
+<img src="https://github.com/k-mcp/My_Class_Planner/assets/98254345/2d71ed90-a130-4537-81ae-119a978ecbd8" width="1000"/>
 
 
 <br>
-
-
-
 
 ### [로그인/로그아웃]
 - 이메일 인증이 아직 완료 되지 않은 계정에 경우 재인증 이메일이 전송됩니다.
 - 인증된 계정의 경우 Session 에 사용자의 정보를 저장하고 홈페이지로 이동하여 사용자가 저장한 데이터를 조회 할 수 있습니다.
 - 로그아웃시 로컬 저장소의 토큰 값과 사용자 정보를 삭제하고 초기화면으로 이동합니다.
 
-
 | 로그인 / 로그아웃 |
 |----------|
-![login](https://github.com/k-mcp/My_Class_Planner/assets/98254345/efc756f8-7a8f-499c-8766-9a8020b70b5f)
-
+<img src="https://github.com/k-mcp/My_Class_Planner/assets/98254345/efc756f8-7a8f-499c-8766-9a8020b70b5f" width="1000"/>
 
 <br>
 
@@ -228,8 +229,7 @@ We hope you enjoy using our app as much as we enjoyed building it. If you have a
 
 | Add Courses / My Course |
 |----------|
-|![tab![add_view_course](https://github.com/k-mcp/My_Class_Planner/assets/98254345/927be4dd-109b-4d47-88f7-3abf0294caad)|
-
+<img src="https://github.com/k-mcp/My_Class_Planner/assets/98254345/927be4dd-109b-4d47-88f7-3abf0294caad" width="1000"/>
 
 <br>
 
@@ -240,20 +240,11 @@ We hope you enjoy using our app as much as we enjoyed building it. If you have a
 
 | Generate Plans |
 |----------|
-
-![generate](https://github.com/k-mcp/My_Class_Planner/assets/98254345/721ab34a-8090-44eb-923e-6afafcff2a6d)
+<img src="https://github.com/k-mcp/My_Class_Planner/assets/98254345/721ab34a-8090-44eb-923e-6afafcff2a6d" width="1000"/>
 
 | My Plans |
 |----------|
-
-![my_plan](https://github.com/k-mcp/My_Class_Planner/assets/98254345/df3003ba-6cd9-46d1-8773-99b123107cfb)
-
-
-<br>
-
-## 8. 물리 데이터 모델
-|----------|
-<img width="1000" alt="model" src="https://github.com/k-mcp/My_Class_Planner/assets/101847682/3190614a-92bb-4003-ae18-b64c77761a10">
+<img src="https://github.com/k-mcp/My_Class_Planner/assets/98254345/df3003ba-6cd9-46d1-8773-99b123107cfb" width="1000"/>
 
 
 <br>
